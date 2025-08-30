@@ -27,7 +27,6 @@ Aqui você encontrará uma proposta visual limpa e direta:
 
 - HTML5  
 - CSS3  
-
 ---
 
 ##  Aprendizados
