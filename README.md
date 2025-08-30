@@ -6,7 +6,7 @@
 
 ##  Descrição
 
-Esse projeto foi inspirado em um **desafio para iniciantes em HTML e CSS** do GitHub, cujo objetivo é construir uma página de locação de cowork (espaço de trabalho compartilhado), seguindo um design visual específico :contentReference[oaicite:0]{index=0}.
+Esse projeto foi inspirado em um **desafio para iniciantes em HTML e CSS** do GitHub, cujo objetivo é construir uma página de locação de cowork (espaço de trabalho compartilhado).
 
 Aqui você encontrará uma proposta visual limpa e direta:  
 - **Cabeçalho com navegação simples** (About, Places, Contact)  
@@ -18,7 +18,7 @@ Aqui você encontrará uma proposta visual limpa e direta:
 
 ##  Status do Projeto
 
--  **Estático:** o layout funciona bem em tamanhos de tela padrão (desktop), mas **ainda não é responsivo**. Aprender a tornar seus designs adaptáveis a diferentes dispositivos é uma etapa importante que pretendo implementar em versões futuras.
+-  **Estático:** o layout funciona bem em tamanhos de tela padrão (desktop), mas **ainda não é responsivo**.
 -  **Foco atual:** consolidar os fundamentos de estruturação (HTML semântico) e estilização (CSS puro), antes de partir para conceitos mais avançados como responsividade.
 
 ---
