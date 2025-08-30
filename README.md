@@ -41,7 +41,7 @@ Aqui você encontrará uma proposta visual limpa e direta:
 
 ##  Créditos
 
-- Obrigado ao **Lucas Bomfim (lubomfim)** por criar esse desafio visual para iniciantes, que me inspirou a desenvolver este projeto :contentReference[oaicite:3]{index=3}.  
+- https://github.com/lubomfim/work-plin
 - 
 
 ---
