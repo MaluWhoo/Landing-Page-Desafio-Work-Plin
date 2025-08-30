@@ -23,27 +23,21 @@ Aqui você encontrará uma proposta visual limpa e direta:
 
 ---
 
+##  Acesse
+
+-  https://maluwhoo.github.io/Landing-Page-Desafio-Work-Plin/
+
+---
+
 ##  Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
 ---
 
-##  Aprendizados
-
-- Como organizar uma **landing page** com estrutura clara e visual atrativo  
-- Uso de **tags semânticas** e boa hierarquia no HTML  
-- Controle estético e hierárquico com **CSS puro**  
-- Experiência no processo de replicar um design visual para prática pessoal
-
----
-
-
 ##  Créditos
 
 - https://github.com/lubomfim/work-plin
-- 
-
 ---
 
 Feito com empenho para crescer como desenvolvedor frontend.  
